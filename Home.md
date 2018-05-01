@@ -1,7 +1,10 @@
 Welcome to the Calculating-Collections-Time wiki!
 
 array list: no order and can contain duplicate best for insertion element
+
 linked list: follow insertion order & contain duplicate nest for add and removing element
+
+
 import java.util.*;
 public class HelloWorld{
 
